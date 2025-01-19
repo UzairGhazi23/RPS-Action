@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RPS Action</string>
+    <string name="HumanChoice">Human Choice</string>
+    <string name="ComputerChoice">Computer Choice</string>
+    <string name="a">Score: Human 0 Computer 0</string>
+    <string name="Rock">Rock</string>
+    <string name="Paper">Paper</string>
+    <string name="Scissors">Scissor</string>
+    <string name="Scissors1">Scissors</string>
+    <string name="onlyScore">SCORE</string>
+    <string name="HCScore">0</string>
+    <string name="Score">Human  0  :  Computer  0</string>
+</resources>
